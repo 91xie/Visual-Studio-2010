@@ -1,0 +1,5 @@
+C:\Users\Patrick Xie\AppData\Local\Temporary Projects\27_05_11_SearchEngine2\bin\Debug\27_05_11_SearchEngine2.exe
+C:\Users\Patrick Xie\AppData\Local\Temporary Projects\27_05_11_SearchEngine2\bin\Debug\27_05_11_SearchEngine2.pdb
+C:\Users\Patrick Xie\AppData\Local\Temporary Projects\27_05_11_SearchEngine2\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Patrick Xie\AppData\Local\Temporary Projects\27_05_11_SearchEngine2\obj\x86\Debug\27_05_11_SearchEngine2.exe
+C:\Users\Patrick Xie\AppData\Local\Temporary Projects\27_05_11_SearchEngine2\obj\x86\Debug\27_05_11_SearchEngine2.pdb

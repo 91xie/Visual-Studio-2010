@@ -1,0 +1,5 @@
+C:\Users\Patrick Xie\AppData\Local\Temporary Projects\PropertyDemo\bin\Debug\PropertyDemo.exe
+C:\Users\Patrick Xie\AppData\Local\Temporary Projects\PropertyDemo\bin\Debug\PropertyDemo.pdb
+C:\Users\Patrick Xie\AppData\Local\Temporary Projects\PropertyDemo\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Patrick Xie\AppData\Local\Temporary Projects\PropertyDemo\obj\x86\Debug\PropertyDemo.exe
+C:\Users\Patrick Xie\AppData\Local\Temporary Projects\PropertyDemo\obj\x86\Debug\PropertyDemo.pdb

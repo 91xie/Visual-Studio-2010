@@ -1,0 +1,10 @@
+C:\Users\Patrick Xie\AppData\Local\Temporary Projects\MathsApp\bin\Debug\MathsApp.exe
+C:\Users\Patrick Xie\AppData\Local\Temporary Projects\MathsApp\bin\Debug\MathsApp.pdb
+C:\Users\Patrick Xie\AppData\Local\Temporary Projects\MathsApp\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Patrick Xie\AppData\Local\Temporary Projects\MathsApp\obj\x86\Debug\MathsApp.exe
+C:\Users\Patrick Xie\AppData\Local\Temporary Projects\MathsApp\obj\x86\Debug\MathsApp.pdb
+C:\Users\Patrick Xie\documents\visual studio 2010\Projects\MathsApp\MathsApp\obj\x86\Debug\MathsApp.exe
+C:\Users\Patrick Xie\documents\visual studio 2010\Projects\MathsApp\MathsApp\obj\x86\Debug\MathsApp.pdb
+C:\Users\Patrick Xie\documents\visual studio 2010\Projects\MathsApp\MathsApp\bin\Debug\MathsApp.exe
+C:\Users\Patrick Xie\documents\visual studio 2010\Projects\MathsApp\MathsApp\bin\Debug\MathsApp.pdb
+C:\Users\Patrick Xie\documents\visual studio 2010\Projects\MathsApp\MathsApp\obj\x86\Debug\ResolveAssemblyReference.cache

@@ -1,0 +1,7 @@
+C:\Users\Patrick Xie\AppData\Local\Temporary Projects\Tutorial1\bin\Debug\Tutorial1.exe
+C:\Users\Patrick Xie\AppData\Local\Temporary Projects\Tutorial1\bin\Debug\Tutorial1.pdb
+C:\Users\Patrick Xie\AppData\Local\Temporary Projects\Tutorial1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Patrick Xie\AppData\Local\Temporary Projects\Tutorial1\obj\x86\Debug\Tutorial1.exe
+C:\Users\Patrick Xie\AppData\Local\Temporary Projects\Tutorial1\obj\x86\Debug\Tutorial1.pdb
+C:\Users\Patrick Xie\Documents\Visual Studio 2010\Projects\Tutorial1\Tutorial1\obj\x86\Debug\Tutorial1.exe
+C:\Users\Patrick Xie\Documents\Visual Studio 2010\Projects\Tutorial1\Tutorial1\obj\x86\Debug\Tutorial1.pdb

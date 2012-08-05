@@ -1,0 +1,7 @@
+C:\Users\Patrick Xie\AppData\Local\Temporary Projects\Demo_Lab4\bin\Debug\Demo_Lab4.exe
+C:\Users\Patrick Xie\AppData\Local\Temporary Projects\Demo_Lab4\bin\Debug\Demo_Lab4.pdb
+C:\Users\Patrick Xie\AppData\Local\Temporary Projects\Demo_Lab4\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Patrick Xie\AppData\Local\Temporary Projects\Demo_Lab4\obj\x86\Debug\Demo_Lab4.exe
+C:\Users\Patrick Xie\AppData\Local\Temporary Projects\Demo_Lab4\obj\x86\Debug\Demo_Lab4.pdb
+C:\Users\Patrick Xie\Documents\Visual Studio 2010\Projects\Demo_Lab4\Demo_Lab4\obj\x86\Debug\Demo_Lab4.exe
+C:\Users\Patrick Xie\Documents\Visual Studio 2010\Projects\Demo_Lab4\Demo_Lab4\obj\x86\Debug\Demo_Lab4.pdb

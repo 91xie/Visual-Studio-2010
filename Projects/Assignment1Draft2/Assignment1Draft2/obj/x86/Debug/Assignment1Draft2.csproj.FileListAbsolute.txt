@@ -1,0 +1,5 @@
+C:\Users\Patrick Xie\documents\visual studio 2010\Projects\Assignment1Draft2\Assignment1Draft2\bin\Debug\Assignment1Draft2.exe
+C:\Users\Patrick Xie\documents\visual studio 2010\Projects\Assignment1Draft2\Assignment1Draft2\bin\Debug\Assignment1Draft2.pdb
+C:\Users\Patrick Xie\documents\visual studio 2010\Projects\Assignment1Draft2\Assignment1Draft2\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Patrick Xie\documents\visual studio 2010\Projects\Assignment1Draft2\Assignment1Draft2\obj\x86\Debug\Assignment1Draft2.exe
+C:\Users\Patrick Xie\documents\visual studio 2010\Projects\Assignment1Draft2\Assignment1Draft2\obj\x86\Debug\Assignment1Draft2.pdb

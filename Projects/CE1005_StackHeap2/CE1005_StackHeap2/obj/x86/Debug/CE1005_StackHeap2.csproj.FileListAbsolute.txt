@@ -1,0 +1,2 @@
+C:\Users\Patrick Xie\AppData\Local\Temporary Projects\CE1005_StackHeap2\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Patrick Xie\documents\visual studio 2010\Projects\CE1005_StackHeap2\CE1005_StackHeap2\obj\x86\Debug\ResolveAssemblyReference.cache

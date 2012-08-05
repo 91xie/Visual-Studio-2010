@@ -1,0 +1,10 @@
+C:\Users\Patrick Xie\AppData\Local\Temporary Projects\Assignment1PartBDraft1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Patrick Xie\AppData\Local\Temporary Projects\Assignment1PartBDraft1\bin\Debug\Assignment1PartBDraft1.exe
+C:\Users\Patrick Xie\AppData\Local\Temporary Projects\Assignment1PartBDraft1\bin\Debug\Assignment1PartBDraft1.pdb
+C:\Users\Patrick Xie\AppData\Local\Temporary Projects\Assignment1PartBDraft1\obj\x86\Debug\Assignment1PartBDraft1.exe
+C:\Users\Patrick Xie\AppData\Local\Temporary Projects\Assignment1PartBDraft1\obj\x86\Debug\Assignment1PartBDraft1.pdb
+C:\Users\Patrick Xie\documents\visual studio 2010\Projects\Assignment1PartBDraft1\Assignment1PartBDraft1\obj\x86\Debug\Assignment1PartBDraft1.exe
+C:\Users\Patrick Xie\documents\visual studio 2010\Projects\Assignment1PartBDraft1\Assignment1PartBDraft1\obj\x86\Debug\Assignment1PartBDraft1.pdb
+C:\Users\Patrick Xie\Documents\Visual Studio 2010\Projects\Assignment1PartBDraft1\Assignment1PartBDraft1\bin\Debug\Assignment1PartBDraft1.exe
+C:\Users\Patrick Xie\Documents\Visual Studio 2010\Projects\Assignment1PartBDraft1\Assignment1PartBDraft1\bin\Debug\Assignment1PartBDraft1.pdb
+C:\Users\Patrick Xie\Documents\Visual Studio 2010\Projects\Assignment1PartBDraft1\Assignment1PartBDraft1\obj\x86\Debug\ResolveAssemblyReference.cache

@@ -1,0 +1,10 @@
+C:\Users\Patrick Xie\AppData\Local\Temporary Projects\GaussianElimination_1\bin\Debug\GaussianElimination_1.exe
+C:\Users\Patrick Xie\AppData\Local\Temporary Projects\GaussianElimination_1\bin\Debug\GaussianElimination_1.pdb
+C:\Users\Patrick Xie\AppData\Local\Temporary Projects\GaussianElimination_1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Patrick Xie\AppData\Local\Temporary Projects\GaussianElimination_1\obj\x86\Debug\GaussianElimination_1.exe
+C:\Users\Patrick Xie\AppData\Local\Temporary Projects\GaussianElimination_1\obj\x86\Debug\GaussianElimination_1.pdb
+C:\Users\Patrick Xie\Documents\Visual Studio 2010\Projects\GaussianElimination_1\GaussianElimination_1\obj\x86\Debug\GaussianElimination_1.exe
+C:\Users\Patrick Xie\Documents\Visual Studio 2010\Projects\GaussianElimination_1\GaussianElimination_1\obj\x86\Debug\GaussianElimination_1.pdb
+C:\Users\Patrick Xie\Documents\Visual Studio 2010\Projects\GaussianElimination_1\GaussianElimination_1\bin\Debug\GaussianElimination_1.exe
+C:\Users\Patrick Xie\Documents\Visual Studio 2010\Projects\GaussianElimination_1\GaussianElimination_1\bin\Debug\GaussianElimination_1.pdb
+C:\Users\Patrick Xie\Documents\Visual Studio 2010\Projects\GaussianElimination_1\GaussianElimination_1\obj\x86\Debug\ResolveAssemblyReference.cache

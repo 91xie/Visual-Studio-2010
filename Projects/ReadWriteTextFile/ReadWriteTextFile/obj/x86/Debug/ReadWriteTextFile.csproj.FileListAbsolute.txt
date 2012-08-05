@@ -1,0 +1,10 @@
+C:\Users\Patrick Xie\AppData\Local\Temporary Projects\ReadWriteTextFile\bin\Debug\ReadWriteTextFile.exe
+C:\Users\Patrick Xie\AppData\Local\Temporary Projects\ReadWriteTextFile\bin\Debug\ReadWriteTextFile.pdb
+C:\Users\Patrick Xie\AppData\Local\Temporary Projects\ReadWriteTextFile\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Patrick Xie\AppData\Local\Temporary Projects\ReadWriteTextFile\obj\x86\Debug\ReadWriteTextFile.exe
+C:\Users\Patrick Xie\AppData\Local\Temporary Projects\ReadWriteTextFile\obj\x86\Debug\ReadWriteTextFile.pdb
+C:\Users\Patrick Xie\Documents\Visual Studio 2010\Projects\ReadWriteTextFile\ReadWriteTextFile\obj\x86\Debug\ReadWriteTextFile.exe
+C:\Users\Patrick Xie\Documents\Visual Studio 2010\Projects\ReadWriteTextFile\ReadWriteTextFile\obj\x86\Debug\ReadWriteTextFile.pdb
+C:\Users\Patrick Xie\Documents\Visual Studio 2010\Projects\ReadWriteTextFile\ReadWriteTextFile\bin\Debug\ReadWriteTextFile.exe
+C:\Users\Patrick Xie\Documents\Visual Studio 2010\Projects\ReadWriteTextFile\ReadWriteTextFile\bin\Debug\ReadWriteTextFile.pdb
+C:\Users\Patrick Xie\Documents\Visual Studio 2010\Projects\ReadWriteTextFile\ReadWriteTextFile\obj\x86\Debug\ResolveAssemblyReference.cache

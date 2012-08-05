@@ -1,0 +1,5 @@
+C:\Users\Patrick Xie\Documents\Visual Studio 2010\Projects\ComplexNoClass\ComplexNoClass\bin\Debug\ComplexNoClass.exe
+C:\Users\Patrick Xie\Documents\Visual Studio 2010\Projects\ComplexNoClass\ComplexNoClass\bin\Debug\ComplexNoClass.pdb
+C:\Users\Patrick Xie\Documents\Visual Studio 2010\Projects\ComplexNoClass\ComplexNoClass\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Patrick Xie\Documents\Visual Studio 2010\Projects\ComplexNoClass\ComplexNoClass\obj\x86\Debug\ComplexNoClass.exe
+C:\Users\Patrick Xie\Documents\Visual Studio 2010\Projects\ComplexNoClass\ComplexNoClass\obj\x86\Debug\ComplexNoClass.pdb

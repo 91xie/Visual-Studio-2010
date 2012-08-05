@@ -1,0 +1,18 @@
+C:\Users\Patrick Xie\AppData\Local\Temporary Projects\Win_Spam_App\bin\Debug\Win_Spam_App.exe
+C:\Users\Patrick Xie\AppData\Local\Temporary Projects\Win_Spam_App\bin\Debug\Win_Spam_App.pdb
+C:\Users\Patrick Xie\AppData\Local\Temporary Projects\Win_Spam_App\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Patrick Xie\AppData\Local\Temporary Projects\Win_Spam_App\obj\x86\Debug\Win_Spam_App.Form1.resources
+C:\Users\Patrick Xie\AppData\Local\Temporary Projects\Win_Spam_App\obj\x86\Debug\Win_Spam_App.Properties.Resources.resources
+C:\Users\Patrick Xie\AppData\Local\Temporary Projects\Win_Spam_App\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Patrick Xie\AppData\Local\Temporary Projects\Win_Spam_App\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Patrick Xie\AppData\Local\Temporary Projects\Win_Spam_App\obj\x86\Debug\Win_Spam_App.exe
+C:\Users\Patrick Xie\AppData\Local\Temporary Projects\Win_Spam_App\obj\x86\Debug\Win_Spam_App.pdb
+C:\Users\Patrick Xie\documents\visual studio 2010\Projects\Win_Spam_App\Win_Spam_App\obj\x86\Debug\Win_Spam_App.exe
+C:\Users\Patrick Xie\documents\visual studio 2010\Projects\Win_Spam_App\Win_Spam_App\obj\x86\Debug\Win_Spam_App.pdb
+C:\Users\Patrick Xie\documents\visual studio 2010\Projects\Win_Spam_App\Win_Spam_App\bin\Debug\Win_Spam_App.exe
+C:\Users\Patrick Xie\documents\visual studio 2010\Projects\Win_Spam_App\Win_Spam_App\bin\Debug\Win_Spam_App.pdb
+C:\Users\Patrick Xie\documents\visual studio 2010\Projects\Win_Spam_App\Win_Spam_App\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Patrick Xie\documents\visual studio 2010\Projects\Win_Spam_App\Win_Spam_App\obj\x86\Debug\Win_Spam_App.Form1.resources
+C:\Users\Patrick Xie\documents\visual studio 2010\Projects\Win_Spam_App\Win_Spam_App\obj\x86\Debug\Win_Spam_App.Properties.Resources.resources
+C:\Users\Patrick Xie\documents\visual studio 2010\Projects\Win_Spam_App\Win_Spam_App\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Patrick Xie\documents\visual studio 2010\Projects\Win_Spam_App\Win_Spam_App\obj\x86\Debug\GenerateResource.write.1.tlog

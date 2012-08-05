@@ -1,0 +1,10 @@
+C:\Users\Patrick Xie\AppData\Local\Temporary Projects\StringtoVectors\bin\Debug\StringtoVectors.exe
+C:\Users\Patrick Xie\AppData\Local\Temporary Projects\StringtoVectors\bin\Debug\StringtoVectors.pdb
+C:\Users\Patrick Xie\AppData\Local\Temporary Projects\StringtoVectors\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Patrick Xie\AppData\Local\Temporary Projects\StringtoVectors\obj\x86\Debug\StringtoVectors.exe
+C:\Users\Patrick Xie\AppData\Local\Temporary Projects\StringtoVectors\obj\x86\Debug\StringtoVectors.pdb
+C:\Users\Patrick Xie\documents\visual studio 2010\Projects\StringtoVectors\StringtoVectors\obj\x86\Debug\StringtoVectors.exe
+C:\Users\Patrick Xie\documents\visual studio 2010\Projects\StringtoVectors\StringtoVectors\obj\x86\Debug\StringtoVectors.pdb
+C:\Users\Patrick Xie\documents\visual studio 2010\Projects\StringtoVectors\StringtoVectors\bin\Debug\StringtoVectors.exe
+C:\Users\Patrick Xie\documents\visual studio 2010\Projects\StringtoVectors\StringtoVectors\bin\Debug\StringtoVectors.pdb
+C:\Users\Patrick Xie\documents\visual studio 2010\Projects\StringtoVectors\StringtoVectors\obj\x86\Debug\ResolveAssemblyReference.cache

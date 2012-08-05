@@ -1,0 +1,7 @@
+C:\Users\Patrick Xie\AppData\Local\Temporary Projects\Demo_Exercise1a\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Patrick Xie\AppData\Local\Temporary Projects\Demo_Exercise1a\bin\Debug\Demo_Exercise1a.exe
+C:\Users\Patrick Xie\AppData\Local\Temporary Projects\Demo_Exercise1a\bin\Debug\Demo_Exercise1a.pdb
+C:\Users\Patrick Xie\AppData\Local\Temporary Projects\Demo_Exercise1a\obj\x86\Debug\Demo_Exercise1a.exe
+C:\Users\Patrick Xie\AppData\Local\Temporary Projects\Demo_Exercise1a\obj\x86\Debug\Demo_Exercise1a.pdb
+C:\Users\Patrick Xie\documents\visual studio 2010\Projects\Demo_Exercise1a\Demo_Exercise1a\obj\x86\Debug\Demo_Exercise1a.exe
+C:\Users\Patrick Xie\documents\visual studio 2010\Projects\Demo_Exercise1a\Demo_Exercise1a\obj\x86\Debug\Demo_Exercise1a.pdb

@@ -1,0 +1,7 @@
+C:\Users\Patrick Xie\Documents\Visual Studio 2010\Projects\MathsAppDLL1\MathsAppCon1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Patrick Xie\Documents\Visual Studio 2010\Projects\MathsAppDLL1\MathsAppCon1\bin\Debug\MathsAppCon1.exe
+C:\Users\Patrick Xie\Documents\Visual Studio 2010\Projects\MathsAppDLL1\MathsAppCon1\bin\Debug\MathsAppCon1.pdb
+C:\Users\Patrick Xie\Documents\Visual Studio 2010\Projects\MathsAppDLL1\MathsAppCon1\bin\Debug\MathsAppPro1.dll
+C:\Users\Patrick Xie\Documents\Visual Studio 2010\Projects\MathsAppDLL1\MathsAppCon1\bin\Debug\MathsAppPro1.pdb
+C:\Users\Patrick Xie\Documents\Visual Studio 2010\Projects\MathsAppDLL1\MathsAppCon1\obj\x86\Debug\MathsAppCon1.exe
+C:\Users\Patrick Xie\Documents\Visual Studio 2010\Projects\MathsAppDLL1\MathsAppCon1\obj\x86\Debug\MathsAppCon1.pdb

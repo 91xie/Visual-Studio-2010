@@ -1,0 +1,10 @@
+C:\Users\Patrick Xie\AppData\Local\Temporary Projects\StringToBank\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Patrick Xie\AppData\Local\Temporary Projects\StringToBank\bin\Debug\StringToBank.exe
+C:\Users\Patrick Xie\AppData\Local\Temporary Projects\StringToBank\bin\Debug\StringToBank.pdb
+C:\Users\Patrick Xie\AppData\Local\Temporary Projects\StringToBank\obj\x86\Debug\StringToBank.exe
+C:\Users\Patrick Xie\AppData\Local\Temporary Projects\StringToBank\obj\x86\Debug\StringToBank.pdb
+C:\Users\Patrick Xie\documents\visual studio 2010\Projects\StringToBank\StringToBank\obj\x86\Debug\StringToBank.exe
+C:\Users\Patrick Xie\documents\visual studio 2010\Projects\StringToBank\StringToBank\obj\x86\Debug\StringToBank.pdb
+C:\Users\Patrick Xie\Documents\Visual Studio 2010\Projects\StringToBank\StringToBank\bin\Debug\StringToBank.exe
+C:\Users\Patrick Xie\Documents\Visual Studio 2010\Projects\StringToBank\StringToBank\bin\Debug\StringToBank.pdb
+C:\Users\Patrick Xie\Documents\Visual Studio 2010\Projects\StringToBank\StringToBank\obj\x86\Debug\ResolveAssemblyReference.cache

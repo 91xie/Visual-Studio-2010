@@ -1,0 +1,5 @@
+C:\Users\Patrick Xie\documents\visual studio 2010\Projects\BankInfoConsole\BankInfoConsole\bin\Debug\BankInfoConsole.exe
+C:\Users\Patrick Xie\documents\visual studio 2010\Projects\BankInfoConsole\BankInfoConsole\bin\Debug\BankInfoConsole.pdb
+C:\Users\Patrick Xie\documents\visual studio 2010\Projects\BankInfoConsole\BankInfoConsole\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Patrick Xie\documents\visual studio 2010\Projects\BankInfoConsole\BankInfoConsole\obj\x86\Debug\BankInfoConsole.exe
+C:\Users\Patrick Xie\documents\visual studio 2010\Projects\BankInfoConsole\BankInfoConsole\obj\x86\Debug\BankInfoConsole.pdb

@@ -1,0 +1,1 @@
+C:\Users\Patrick Xie\Documents\Visual Studio 2010\Projects\CE1005_OpenFileDialog\CE1005_OpenFileDialog\obj\x86\Debug\ResolveAssemblyReference.cache

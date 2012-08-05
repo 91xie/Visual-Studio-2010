@@ -1,0 +1,5 @@
+C:\Users\Patrick Xie\documents\visual studio 2010\Projects\Assignment2Draft3aLakeClass\Assignment2Draft3aLakeClass\bin\Debug\Assignment2Draft3aLakeClass.exe
+C:\Users\Patrick Xie\documents\visual studio 2010\Projects\Assignment2Draft3aLakeClass\Assignment2Draft3aLakeClass\bin\Debug\Assignment2Draft3aLakeClass.pdb
+C:\Users\Patrick Xie\documents\visual studio 2010\Projects\Assignment2Draft3aLakeClass\Assignment2Draft3aLakeClass\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Patrick Xie\documents\visual studio 2010\Projects\Assignment2Draft3aLakeClass\Assignment2Draft3aLakeClass\obj\x86\Debug\Assignment2Draft3aLakeClass.exe
+C:\Users\Patrick Xie\documents\visual studio 2010\Projects\Assignment2Draft3aLakeClass\Assignment2Draft3aLakeClass\obj\x86\Debug\Assignment2Draft3aLakeClass.pdb

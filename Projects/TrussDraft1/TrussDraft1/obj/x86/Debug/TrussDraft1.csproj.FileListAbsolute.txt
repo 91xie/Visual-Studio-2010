@@ -1,0 +1,10 @@
+C:\Users\Patrick Xie\AppData\Local\Temporary Projects\TrussDraft1\bin\Debug\TrussDraft1.exe
+C:\Users\Patrick Xie\AppData\Local\Temporary Projects\TrussDraft1\bin\Debug\TrussDraft1.pdb
+C:\Users\Patrick Xie\AppData\Local\Temporary Projects\TrussDraft1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Patrick Xie\AppData\Local\Temporary Projects\TrussDraft1\obj\x86\Debug\TrussDraft1.exe
+C:\Users\Patrick Xie\AppData\Local\Temporary Projects\TrussDraft1\obj\x86\Debug\TrussDraft1.pdb
+C:\Users\Patrick Xie\documents\visual studio 2010\Projects\TrussDraft1\TrussDraft1\obj\x86\Debug\TrussDraft1.exe
+C:\Users\Patrick Xie\documents\visual studio 2010\Projects\TrussDraft1\TrussDraft1\obj\x86\Debug\TrussDraft1.pdb
+C:\Users\Patrick Xie\Documents\Visual Studio 2010\Projects\TrussDraft1\TrussDraft1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Patrick Xie\Documents\Visual Studio 2010\Projects\TrussDraft1\TrussDraft1\bin\Debug\TrussDraft1.exe
+C:\Users\Patrick Xie\Documents\Visual Studio 2010\Projects\TrussDraft1\TrussDraft1\bin\Debug\TrussDraft1.pdb

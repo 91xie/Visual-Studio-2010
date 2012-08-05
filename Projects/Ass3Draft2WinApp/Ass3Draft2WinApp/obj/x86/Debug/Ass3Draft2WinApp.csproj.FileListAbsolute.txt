@@ -1,0 +1,18 @@
+C:\Users\Patrick Xie\AppData\Local\Temporary Projects\Ass3Draft2WinApp\bin\Debug\Ass3Draft2WinApp.exe
+C:\Users\Patrick Xie\AppData\Local\Temporary Projects\Ass3Draft2WinApp\bin\Debug\Ass3Draft2WinApp.pdb
+C:\Users\Patrick Xie\AppData\Local\Temporary Projects\Ass3Draft2WinApp\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Patrick Xie\AppData\Local\Temporary Projects\Ass3Draft2WinApp\obj\x86\Debug\Ass3Draft2WinApp.Form1.resources
+C:\Users\Patrick Xie\AppData\Local\Temporary Projects\Ass3Draft2WinApp\obj\x86\Debug\Ass3Draft2WinApp.Properties.Resources.resources
+C:\Users\Patrick Xie\AppData\Local\Temporary Projects\Ass3Draft2WinApp\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Patrick Xie\AppData\Local\Temporary Projects\Ass3Draft2WinApp\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Patrick Xie\AppData\Local\Temporary Projects\Ass3Draft2WinApp\obj\x86\Debug\Ass3Draft2WinApp.exe
+C:\Users\Patrick Xie\AppData\Local\Temporary Projects\Ass3Draft2WinApp\obj\x86\Debug\Ass3Draft2WinApp.pdb
+C:\Users\Patrick Xie\documents\visual studio 2010\Projects\Ass3Draft2WinApp\Ass3Draft2WinApp\obj\x86\Debug\Ass3Draft2WinApp.exe
+C:\Users\Patrick Xie\documents\visual studio 2010\Projects\Ass3Draft2WinApp\Ass3Draft2WinApp\obj\x86\Debug\Ass3Draft2WinApp.pdb
+C:\Users\Patrick Xie\documents\visual studio 2010\Projects\Ass3Draft2WinApp\Ass3Draft2WinApp\bin\Debug\Ass3Draft2WinApp.exe
+C:\Users\Patrick Xie\documents\visual studio 2010\Projects\Ass3Draft2WinApp\Ass3Draft2WinApp\bin\Debug\Ass3Draft2WinApp.pdb
+C:\Users\Patrick Xie\documents\visual studio 2010\Projects\Ass3Draft2WinApp\Ass3Draft2WinApp\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Patrick Xie\documents\visual studio 2010\Projects\Ass3Draft2WinApp\Ass3Draft2WinApp\obj\x86\Debug\Ass3Draft2WinApp.Form1.resources
+C:\Users\Patrick Xie\documents\visual studio 2010\Projects\Ass3Draft2WinApp\Ass3Draft2WinApp\obj\x86\Debug\Ass3Draft2WinApp.Properties.Resources.resources
+C:\Users\Patrick Xie\documents\visual studio 2010\Projects\Ass3Draft2WinApp\Ass3Draft2WinApp\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Patrick Xie\documents\visual studio 2010\Projects\Ass3Draft2WinApp\Ass3Draft2WinApp\obj\x86\Debug\GenerateResource.write.1.tlog

@@ -1,0 +1,5 @@
+C:\Users\Patrick Xie\Documents\Visual Studio 2010\Projects\BisectionMethodTest2\BisectionMethodTest2\bin\Debug\BisectionMethodTest2.exe
+C:\Users\Patrick Xie\Documents\Visual Studio 2010\Projects\BisectionMethodTest2\BisectionMethodTest2\bin\Debug\BisectionMethodTest2.pdb
+C:\Users\Patrick Xie\Documents\Visual Studio 2010\Projects\BisectionMethodTest2\BisectionMethodTest2\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Patrick Xie\Documents\Visual Studio 2010\Projects\BisectionMethodTest2\BisectionMethodTest2\obj\x86\Debug\BisectionMethodTest2.exe
+C:\Users\Patrick Xie\Documents\Visual Studio 2010\Projects\BisectionMethodTest2\BisectionMethodTest2\obj\x86\Debug\BisectionMethodTest2.pdb

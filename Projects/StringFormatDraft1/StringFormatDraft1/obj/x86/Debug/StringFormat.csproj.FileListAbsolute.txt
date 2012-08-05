@@ -1,0 +1,5 @@
+C:\Users\Patrick Xie\AppData\Local\Temporary Projects\StringFormat\bin\Debug\StringFormat.exe
+C:\Users\Patrick Xie\AppData\Local\Temporary Projects\StringFormat\bin\Debug\StringFormat.pdb
+C:\Users\Patrick Xie\AppData\Local\Temporary Projects\StringFormat\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Patrick Xie\AppData\Local\Temporary Projects\StringFormat\obj\x86\Debug\StringFormat.exe
+C:\Users\Patrick Xie\AppData\Local\Temporary Projects\StringFormat\obj\x86\Debug\StringFormat.pdb

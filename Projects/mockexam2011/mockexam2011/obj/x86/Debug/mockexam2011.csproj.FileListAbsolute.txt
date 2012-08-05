@@ -1,0 +1,10 @@
+C:\Users\Patrick Xie\AppData\Local\Temporary Projects\mockexam2011\bin\Debug\mockexam2011.exe
+C:\Users\Patrick Xie\AppData\Local\Temporary Projects\mockexam2011\bin\Debug\mockexam2011.pdb
+C:\Users\Patrick Xie\AppData\Local\Temporary Projects\mockexam2011\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Patrick Xie\AppData\Local\Temporary Projects\mockexam2011\obj\x86\Debug\mockexam2011.exe
+C:\Users\Patrick Xie\AppData\Local\Temporary Projects\mockexam2011\obj\x86\Debug\mockexam2011.pdb
+C:\Users\Patrick Xie\Documents\Visual Studio 2010\Projects\mockexam2011\mockexam2011\obj\x86\Debug\mockexam2011.exe
+C:\Users\Patrick Xie\Documents\Visual Studio 2010\Projects\mockexam2011\mockexam2011\obj\x86\Debug\mockexam2011.pdb
+C:\Users\Patrick Xie\Documents\Visual Studio 2010\Projects\mockexam2011\mockexam2011\bin\Debug\mockexam2011.exe
+C:\Users\Patrick Xie\Documents\Visual Studio 2010\Projects\mockexam2011\mockexam2011\bin\Debug\mockexam2011.pdb
+C:\Users\Patrick Xie\Documents\Visual Studio 2010\Projects\mockexam2011\mockexam2011\obj\x86\Debug\ResolveAssemblyReference.cache

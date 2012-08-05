@@ -1,0 +1,10 @@
+C:\Users\Patrick Xie\AppData\Local\Temporary Projects\BendingMk1\bin\Debug\BendingMk1.exe
+C:\Users\Patrick Xie\AppData\Local\Temporary Projects\BendingMk1\bin\Debug\BendingMk1.pdb
+C:\Users\Patrick Xie\AppData\Local\Temporary Projects\BendingMk1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Patrick Xie\AppData\Local\Temporary Projects\BendingMk1\obj\x86\Debug\BendingMk1.exe
+C:\Users\Patrick Xie\AppData\Local\Temporary Projects\BendingMk1\obj\x86\Debug\BendingMk1.pdb
+C:\Users\Patrick Xie\documents\visual studio 2010\Projects\BendingMk1\BendingMk1\obj\x86\Debug\BendingMk1.exe
+C:\Users\Patrick Xie\documents\visual studio 2010\Projects\BendingMk1\BendingMk1\obj\x86\Debug\BendingMk1.pdb
+C:\Users\Patrick Xie\documents\visual studio 2010\Projects\BendingMk1\BendingMk1\bin\Debug\BendingMk1.exe
+C:\Users\Patrick Xie\documents\visual studio 2010\Projects\BendingMk1\BendingMk1\bin\Debug\BendingMk1.pdb
+C:\Users\Patrick Xie\documents\visual studio 2010\Projects\BendingMk1\BendingMk1\obj\x86\Debug\ResolveAssemblyReference.cache

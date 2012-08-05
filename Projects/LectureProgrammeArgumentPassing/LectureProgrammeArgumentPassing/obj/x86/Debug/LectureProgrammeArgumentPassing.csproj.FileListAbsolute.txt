@@ -1,0 +1,5 @@
+C:\Users\Patrick Xie\Documents\Visual Studio 2010\Projects\LectureProgrammeArgumentPassing\LectureProgrammeArgumentPassing\bin\Debug\LectureProgrammeArgumentPassing.exe
+C:\Users\Patrick Xie\Documents\Visual Studio 2010\Projects\LectureProgrammeArgumentPassing\LectureProgrammeArgumentPassing\bin\Debug\LectureProgrammeArgumentPassing.pdb
+C:\Users\Patrick Xie\Documents\Visual Studio 2010\Projects\LectureProgrammeArgumentPassing\LectureProgrammeArgumentPassing\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Patrick Xie\Documents\Visual Studio 2010\Projects\LectureProgrammeArgumentPassing\LectureProgrammeArgumentPassing\obj\x86\Debug\LectureProgrammeArgumentPassing.exe
+C:\Users\Patrick Xie\Documents\Visual Studio 2010\Projects\LectureProgrammeArgumentPassing\LectureProgrammeArgumentPassing\obj\x86\Debug\LectureProgrammeArgumentPassing.pdb

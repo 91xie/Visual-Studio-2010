@@ -1,0 +1,7 @@
+C:\Users\Patrick Xie\AppData\Local\Temporary Projects\Assignment2Draft1\bin\Debug\Assignment2Draft1.exe
+C:\Users\Patrick Xie\AppData\Local\Temporary Projects\Assignment2Draft1\bin\Debug\Assignment2Draft1.pdb
+C:\Users\Patrick Xie\AppData\Local\Temporary Projects\Assignment2Draft1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Patrick Xie\AppData\Local\Temporary Projects\Assignment2Draft1\obj\x86\Debug\Assignment2Draft1.exe
+C:\Users\Patrick Xie\AppData\Local\Temporary Projects\Assignment2Draft1\obj\x86\Debug\Assignment2Draft1.pdb
+C:\Users\Patrick Xie\documents\visual studio 2010\Projects\Assignment2Draft1\Assignment2Draft1\obj\x86\Debug\Assignment2Draft1.exe
+C:\Users\Patrick Xie\documents\visual studio 2010\Projects\Assignment2Draft1\Assignment2Draft1\obj\x86\Debug\Assignment2Draft1.pdb

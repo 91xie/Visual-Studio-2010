@@ -1,0 +1,18 @@
+C:\Users\Patrick Xie\AppData\Local\Temporary Projects\Graphics1\bin\Debug\Graphics1.exe
+C:\Users\Patrick Xie\AppData\Local\Temporary Projects\Graphics1\bin\Debug\Graphics1.pdb
+C:\Users\Patrick Xie\AppData\Local\Temporary Projects\Graphics1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Patrick Xie\AppData\Local\Temporary Projects\Graphics1\obj\x86\Debug\Graphics1.Form1.resources
+C:\Users\Patrick Xie\AppData\Local\Temporary Projects\Graphics1\obj\x86\Debug\Graphics1.Properties.Resources.resources
+C:\Users\Patrick Xie\AppData\Local\Temporary Projects\Graphics1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Patrick Xie\AppData\Local\Temporary Projects\Graphics1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Patrick Xie\AppData\Local\Temporary Projects\Graphics1\obj\x86\Debug\Graphics1.exe
+C:\Users\Patrick Xie\AppData\Local\Temporary Projects\Graphics1\obj\x86\Debug\Graphics1.pdb
+C:\Users\Patrick Xie\Documents\Visual Studio 2010\Projects\Graphics1\Graphics1\obj\x86\Debug\Graphics1.exe
+C:\Users\Patrick Xie\Documents\Visual Studio 2010\Projects\Graphics1\Graphics1\obj\x86\Debug\Graphics1.pdb
+C:\Users\Patrick Xie\Documents\Visual Studio 2010\Projects\Graphics1\Graphics1\bin\Debug\Graphics1.exe
+C:\Users\Patrick Xie\Documents\Visual Studio 2010\Projects\Graphics1\Graphics1\bin\Debug\Graphics1.pdb
+C:\Users\Patrick Xie\Documents\Visual Studio 2010\Projects\Graphics1\Graphics1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Patrick Xie\Documents\Visual Studio 2010\Projects\Graphics1\Graphics1\obj\x86\Debug\Graphics1.Form1.resources
+C:\Users\Patrick Xie\Documents\Visual Studio 2010\Projects\Graphics1\Graphics1\obj\x86\Debug\Graphics1.Properties.Resources.resources
+C:\Users\Patrick Xie\Documents\Visual Studio 2010\Projects\Graphics1\Graphics1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Patrick Xie\Documents\Visual Studio 2010\Projects\Graphics1\Graphics1\obj\x86\Debug\GenerateResource.write.1.tlog

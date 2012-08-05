@@ -1,0 +1,10 @@
+C:\Users\Patrick Xie\AppData\Local\Temporary Projects\test1\bin\Debug\test1.exe
+C:\Users\Patrick Xie\AppData\Local\Temporary Projects\test1\bin\Debug\test1.pdb
+C:\Users\Patrick Xie\AppData\Local\Temporary Projects\test1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Patrick Xie\AppData\Local\Temporary Projects\test1\obj\x86\Debug\test1.exe
+C:\Users\Patrick Xie\AppData\Local\Temporary Projects\test1\obj\x86\Debug\test1.pdb
+C:\Users\Patrick Xie\documents\visual studio 2010\Projects\test1\test1\obj\x86\Debug\test1.exe
+C:\Users\Patrick Xie\documents\visual studio 2010\Projects\test1\test1\obj\x86\Debug\test1.pdb
+C:\Users\Patrick Xie\Documents\Visual Studio 2010\Projects\test1\test1\bin\Debug\test1.exe
+C:\Users\Patrick Xie\Documents\Visual Studio 2010\Projects\test1\test1\bin\Debug\test1.pdb
+C:\Users\Patrick Xie\Documents\Visual Studio 2010\Projects\test1\test1\obj\x86\Debug\ResolveAssemblyReference.cache

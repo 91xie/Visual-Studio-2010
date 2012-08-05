@@ -1,0 +1,7 @@
+C:\Users\Patrick Xie\AppData\Local\Temporary Projects\ShapesTestClass\bin\Debug\ShapesTestClass.exe
+C:\Users\Patrick Xie\AppData\Local\Temporary Projects\ShapesTestClass\bin\Debug\ShapesTestClass.pdb
+C:\Users\Patrick Xie\AppData\Local\Temporary Projects\ShapesTestClass\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Patrick Xie\AppData\Local\Temporary Projects\ShapesTestClass\obj\x86\Debug\ShapesTestClass.exe
+C:\Users\Patrick Xie\AppData\Local\Temporary Projects\ShapesTestClass\obj\x86\Debug\ShapesTestClass.pdb
+C:\Users\Patrick Xie\documents\visual studio 2010\Projects\ShapesTestClass\ShapesTestClass\obj\x86\Debug\ShapesTestClass.exe
+C:\Users\Patrick Xie\documents\visual studio 2010\Projects\ShapesTestClass\ShapesTestClass\obj\x86\Debug\ShapesTestClass.pdb

@@ -1,0 +1,11 @@
+C:\Users\Patrick Xie\AppData\Local\Temporary Projects\OpenWriteFile\bin\Debug\OpenWriteFile.exe
+C:\Users\Patrick Xie\AppData\Local\Temporary Projects\OpenWriteFile\bin\Debug\OpenWriteFile.pdb
+C:\Users\Patrick Xie\AppData\Local\Temporary Projects\OpenWriteFile\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Patrick Xie\AppData\Local\Temporary Projects\OpenWriteFile\obj\x86\Debug\OpenWriteFile.Form1.resources
+C:\Users\Patrick Xie\AppData\Local\Temporary Projects\OpenWriteFile\obj\x86\Debug\OpenWriteFile.Properties.Resources.resources
+C:\Users\Patrick Xie\AppData\Local\Temporary Projects\OpenWriteFile\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Patrick Xie\AppData\Local\Temporary Projects\OpenWriteFile\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Patrick Xie\AppData\Local\Temporary Projects\OpenWriteFile\obj\x86\Debug\OpenWriteFile.exe
+C:\Users\Patrick Xie\AppData\Local\Temporary Projects\OpenWriteFile\obj\x86\Debug\OpenWriteFile.pdb
+C:\Users\Patrick Xie\documents\visual studio 2010\Projects\OpenWriteFile\OpenWriteFile\obj\x86\Debug\OpenWriteFile.exe
+C:\Users\Patrick Xie\documents\visual studio 2010\Projects\OpenWriteFile\OpenWriteFile\obj\x86\Debug\OpenWriteFile.pdb

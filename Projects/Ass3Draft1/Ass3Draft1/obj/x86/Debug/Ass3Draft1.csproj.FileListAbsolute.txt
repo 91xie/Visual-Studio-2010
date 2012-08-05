@@ -1,0 +1,10 @@
+C:\Users\Patrick Xie\AppData\Local\Temporary Projects\Ass3Draft1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Patrick Xie\AppData\Local\Temporary Projects\Ass3Draft1\bin\Debug\Ass3Draft1.exe
+C:\Users\Patrick Xie\AppData\Local\Temporary Projects\Ass3Draft1\bin\Debug\Ass3Draft1.pdb
+C:\Users\Patrick Xie\AppData\Local\Temporary Projects\Ass3Draft1\obj\x86\Debug\Ass3Draft1.exe
+C:\Users\Patrick Xie\AppData\Local\Temporary Projects\Ass3Draft1\obj\x86\Debug\Ass3Draft1.pdb
+C:\Users\Patrick Xie\Documents\Visual Studio 2010\Projects\Ass3Draft1\Ass3Draft1\obj\x86\Debug\Ass3Draft1.exe
+C:\Users\Patrick Xie\Documents\Visual Studio 2010\Projects\Ass3Draft1\Ass3Draft1\obj\x86\Debug\Ass3Draft1.pdb
+C:\Users\Patrick Xie\Documents\Visual Studio 2010\Projects\Ass3Draft1\Ass3Draft1\bin\Debug\Ass3Draft1.exe
+C:\Users\Patrick Xie\Documents\Visual Studio 2010\Projects\Ass3Draft1\Ass3Draft1\bin\Debug\Ass3Draft1.pdb
+C:\Users\Patrick Xie\Documents\Visual Studio 2010\Projects\Ass3Draft1\Ass3Draft1\obj\x86\Debug\ResolveAssemblyReference.cache

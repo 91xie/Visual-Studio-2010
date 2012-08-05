@@ -1,0 +1,18 @@
+C:\Users\Patrick Xie\AppData\Local\Temporary Projects\GraphicsTest1\bin\Debug\GraphicsTest1.exe
+C:\Users\Patrick Xie\AppData\Local\Temporary Projects\GraphicsTest1\bin\Debug\GraphicsTest1.pdb
+C:\Users\Patrick Xie\AppData\Local\Temporary Projects\GraphicsTest1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Patrick Xie\AppData\Local\Temporary Projects\GraphicsTest1\obj\x86\Debug\GraphicsTest1.Form1.resources
+C:\Users\Patrick Xie\AppData\Local\Temporary Projects\GraphicsTest1\obj\x86\Debug\GraphicsTest1.Properties.Resources.resources
+C:\Users\Patrick Xie\AppData\Local\Temporary Projects\GraphicsTest1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Patrick Xie\AppData\Local\Temporary Projects\GraphicsTest1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Patrick Xie\AppData\Local\Temporary Projects\GraphicsTest1\obj\x86\Debug\GraphicsTest1.exe
+C:\Users\Patrick Xie\AppData\Local\Temporary Projects\GraphicsTest1\obj\x86\Debug\GraphicsTest1.pdb
+C:\Users\Patrick Xie\Documents\Visual Studio 2010\Projects\GraphicsTest1\GraphicsTest1\obj\x86\Debug\GraphicsTest1.exe
+C:\Users\Patrick Xie\Documents\Visual Studio 2010\Projects\GraphicsTest1\GraphicsTest1\obj\x86\Debug\GraphicsTest1.pdb
+C:\Users\Patrick Xie\Documents\Visual Studio 2010\Projects\GraphicsTest1\GraphicsTest1\bin\Debug\GraphicsTest1.exe
+C:\Users\Patrick Xie\Documents\Visual Studio 2010\Projects\GraphicsTest1\GraphicsTest1\bin\Debug\GraphicsTest1.pdb
+C:\Users\Patrick Xie\Documents\Visual Studio 2010\Projects\GraphicsTest1\GraphicsTest1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Patrick Xie\Documents\Visual Studio 2010\Projects\GraphicsTest1\GraphicsTest1\obj\x86\Debug\GraphicsTest1.Form1.resources
+C:\Users\Patrick Xie\Documents\Visual Studio 2010\Projects\GraphicsTest1\GraphicsTest1\obj\x86\Debug\GraphicsTest1.Properties.Resources.resources
+C:\Users\Patrick Xie\Documents\Visual Studio 2010\Projects\GraphicsTest1\GraphicsTest1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Patrick Xie\Documents\Visual Studio 2010\Projects\GraphicsTest1\GraphicsTest1\obj\x86\Debug\GenerateResource.write.1.tlog

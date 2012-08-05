@@ -1,0 +1,10 @@
+C:\Users\Patrick Xie\AppData\Local\Temporary Projects\Assignment2Draft2bFishLake\bin\Debug\Assignment2Draft2bFishLake.exe
+C:\Users\Patrick Xie\AppData\Local\Temporary Projects\Assignment2Draft2bFishLake\bin\Debug\Assignment2Draft2bFishLake.pdb
+C:\Users\Patrick Xie\AppData\Local\Temporary Projects\Assignment2Draft2bFishLake\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Patrick Xie\AppData\Local\Temporary Projects\Assignment2Draft2bFishLake\obj\x86\Debug\Assignment2Draft2bFishLake.exe
+C:\Users\Patrick Xie\AppData\Local\Temporary Projects\Assignment2Draft2bFishLake\obj\x86\Debug\Assignment2Draft2bFishLake.pdb
+C:\Users\Patrick Xie\Documents\Visual Studio 2010\Projects\Assignment2Draft2bFishLake\Assignment2Draft2bFishLake\obj\x86\Debug\Assignment2Draft2bFishLake.exe
+C:\Users\Patrick Xie\Documents\Visual Studio 2010\Projects\Assignment2Draft2bFishLake\Assignment2Draft2bFishLake\obj\x86\Debug\Assignment2Draft2bFishLake.pdb
+C:\Users\Patrick Xie\Documents\Visual Studio 2010\Projects\Assignment2Draft2bFishLake\Assignment2Draft2bFishLake\bin\Debug\Assignment2Draft2bFishLake.exe
+C:\Users\Patrick Xie\Documents\Visual Studio 2010\Projects\Assignment2Draft2bFishLake\Assignment2Draft2bFishLake\bin\Debug\Assignment2Draft2bFishLake.pdb
+C:\Users\Patrick Xie\Documents\Visual Studio 2010\Projects\Assignment2Draft2bFishLake\Assignment2Draft2bFishLake\obj\x86\Debug\ResolveAssemblyReference.cache

@@ -1,0 +1,5 @@
+C:\Users\Patrick Xie\Documents\Visual Studio 2010\Projects\QStructTest\QStructTest\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Patrick Xie\Documents\Visual Studio 2010\Projects\QStructTest\QStructTest\bin\Debug\QStructTest.exe
+C:\Users\Patrick Xie\Documents\Visual Studio 2010\Projects\QStructTest\QStructTest\bin\Debug\QStructTest.pdb
+C:\Users\Patrick Xie\Documents\Visual Studio 2010\Projects\QStructTest\QStructTest\obj\x86\Debug\QStructTest.exe
+C:\Users\Patrick Xie\Documents\Visual Studio 2010\Projects\QStructTest\QStructTest\obj\x86\Debug\QStructTest.pdb

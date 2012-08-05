@@ -1,0 +1,10 @@
+C:\Users\Patrick Xie\AppData\Local\Temporary Projects\Assignment1Draft1\bin\Debug\Assignment1Draft1.exe
+C:\Users\Patrick Xie\AppData\Local\Temporary Projects\Assignment1Draft1\bin\Debug\Assignment1Draft1.pdb
+C:\Users\Patrick Xie\AppData\Local\Temporary Projects\Assignment1Draft1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Patrick Xie\AppData\Local\Temporary Projects\Assignment1Draft1\obj\x86\Debug\Assignment1Draft1.exe
+C:\Users\Patrick Xie\AppData\Local\Temporary Projects\Assignment1Draft1\obj\x86\Debug\Assignment1Draft1.pdb
+C:\Users\Patrick Xie\documents\visual studio 2010\Projects\Assignment1Draft1\Assignment1Draft1\obj\x86\Debug\Assignment1Draft1.exe
+C:\Users\Patrick Xie\documents\visual studio 2010\Projects\Assignment1Draft1\Assignment1Draft1\obj\x86\Debug\Assignment1Draft1.pdb
+C:\Users\Patrick Xie\Documents\Visual Studio 2010\Projects\Assignment1Draft1\Assignment1Draft1\bin\Debug\Assignment1Draft1.exe
+C:\Users\Patrick Xie\Documents\Visual Studio 2010\Projects\Assignment1Draft1\Assignment1Draft1\bin\Debug\Assignment1Draft1.pdb
+C:\Users\Patrick Xie\Documents\Visual Studio 2010\Projects\Assignment1Draft1\Assignment1Draft1\obj\x86\Debug\ResolveAssemblyReference.cache

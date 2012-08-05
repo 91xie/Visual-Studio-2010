@@ -1,0 +1,5 @@
+C:\Users\Patrick Xie\Documents\Visual Studio 2010\Projects\Valerie1\Valerie1\bin\Debug\Valerie1.exe
+C:\Users\Patrick Xie\Documents\Visual Studio 2010\Projects\Valerie1\Valerie1\bin\Debug\Valerie1.pdb
+C:\Users\Patrick Xie\Documents\Visual Studio 2010\Projects\Valerie1\Valerie1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Patrick Xie\Documents\Visual Studio 2010\Projects\Valerie1\Valerie1\obj\x86\Debug\Valerie1.exe
+C:\Users\Patrick Xie\Documents\Visual Studio 2010\Projects\Valerie1\Valerie1\obj\x86\Debug\Valerie1.pdb

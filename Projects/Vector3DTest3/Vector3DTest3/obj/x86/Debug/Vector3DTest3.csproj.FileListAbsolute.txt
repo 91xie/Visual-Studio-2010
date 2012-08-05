@@ -1,0 +1,7 @@
+C:\Users\Patrick Xie\AppData\Local\Temporary Projects\Vector3DTest3\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Patrick Xie\AppData\Local\Temporary Projects\Vector3DTest3\bin\Debug\Vector3DTest3.exe
+C:\Users\Patrick Xie\AppData\Local\Temporary Projects\Vector3DTest3\bin\Debug\Vector3DTest3.pdb
+C:\Users\Patrick Xie\AppData\Local\Temporary Projects\Vector3DTest3\obj\x86\Debug\Vector3DTest3.exe
+C:\Users\Patrick Xie\AppData\Local\Temporary Projects\Vector3DTest3\obj\x86\Debug\Vector3DTest3.pdb
+C:\Users\Patrick Xie\documents\visual studio 2010\Projects\Vector3DTest3\Vector3DTest3\obj\x86\Debug\Vector3DTest3.exe
+C:\Users\Patrick Xie\documents\visual studio 2010\Projects\Vector3DTest3\Vector3DTest3\obj\x86\Debug\Vector3DTest3.pdb

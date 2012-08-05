@@ -1,0 +1,5 @@
+C:\Users\Patrick Xie\AppData\Local\Temporary Projects\ArgumentPassing\bin\Debug\ArgumentPassing.exe
+C:\Users\Patrick Xie\AppData\Local\Temporary Projects\ArgumentPassing\bin\Debug\ArgumentPassing.pdb
+C:\Users\Patrick Xie\AppData\Local\Temporary Projects\ArgumentPassing\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Patrick Xie\AppData\Local\Temporary Projects\ArgumentPassing\obj\x86\Debug\ArgumentPassing.exe
+C:\Users\Patrick Xie\AppData\Local\Temporary Projects\ArgumentPassing\obj\x86\Debug\ArgumentPassing.pdb

@@ -1,0 +1,10 @@
+C:\Users\Patrick Xie\AppData\Local\Temporary Projects\ArraysTest2\bin\Debug\ArraysTest2.exe
+C:\Users\Patrick Xie\AppData\Local\Temporary Projects\ArraysTest2\bin\Debug\ArraysTest2.pdb
+C:\Users\Patrick Xie\AppData\Local\Temporary Projects\ArraysTest2\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Patrick Xie\AppData\Local\Temporary Projects\ArraysTest2\obj\x86\Debug\ArraysTest2.exe
+C:\Users\Patrick Xie\AppData\Local\Temporary Projects\ArraysTest2\obj\x86\Debug\ArraysTest2.pdb
+C:\Users\Patrick Xie\documents\visual studio 2010\Projects\ArraysTest2\ArraysTest2\obj\x86\Debug\ArraysTest2.exe
+C:\Users\Patrick Xie\documents\visual studio 2010\Projects\ArraysTest2\ArraysTest2\obj\x86\Debug\ArraysTest2.pdb
+C:\Users\Patrick Xie\Documents\Visual Studio 2010\Projects\ArraysTest2\ArraysTest2\bin\Debug\ArraysTest2.exe
+C:\Users\Patrick Xie\Documents\Visual Studio 2010\Projects\ArraysTest2\ArraysTest2\bin\Debug\ArraysTest2.pdb
+C:\Users\Patrick Xie\Documents\Visual Studio 2010\Projects\ArraysTest2\ArraysTest2\obj\x86\Debug\ResolveAssemblyReference.cache

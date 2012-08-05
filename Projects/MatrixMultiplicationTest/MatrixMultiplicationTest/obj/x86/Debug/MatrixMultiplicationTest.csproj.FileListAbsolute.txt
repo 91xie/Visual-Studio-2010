@@ -1,0 +1,5 @@
+C:\Users\Patrick Xie\documents\visual studio 2010\Projects\MatrixMultiplicationTest\MatrixMultiplicationTest\bin\Debug\MatrixMultiplicationTest.exe
+C:\Users\Patrick Xie\documents\visual studio 2010\Projects\MatrixMultiplicationTest\MatrixMultiplicationTest\bin\Debug\MatrixMultiplicationTest.pdb
+C:\Users\Patrick Xie\documents\visual studio 2010\Projects\MatrixMultiplicationTest\MatrixMultiplicationTest\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Patrick Xie\documents\visual studio 2010\Projects\MatrixMultiplicationTest\MatrixMultiplicationTest\obj\x86\Debug\MatrixMultiplicationTest.exe
+C:\Users\Patrick Xie\documents\visual studio 2010\Projects\MatrixMultiplicationTest\MatrixMultiplicationTest\obj\x86\Debug\MatrixMultiplicationTest.pdb

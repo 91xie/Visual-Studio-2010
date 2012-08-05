@@ -1,0 +1,18 @@
+C:\Users\Patrick Xie\AppData\Local\Temporary Projects\WaterHeatDraft1\bin\Debug\WaterHeatDraft1.exe
+C:\Users\Patrick Xie\AppData\Local\Temporary Projects\WaterHeatDraft1\bin\Debug\WaterHeatDraft1.pdb
+C:\Users\Patrick Xie\AppData\Local\Temporary Projects\WaterHeatDraft1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Patrick Xie\AppData\Local\Temporary Projects\WaterHeatDraft1\obj\x86\Debug\WaterHeatDraft1.Form1.resources
+C:\Users\Patrick Xie\AppData\Local\Temporary Projects\WaterHeatDraft1\obj\x86\Debug\WaterHeatDraft1.Properties.Resources.resources
+C:\Users\Patrick Xie\AppData\Local\Temporary Projects\WaterHeatDraft1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Patrick Xie\AppData\Local\Temporary Projects\WaterHeatDraft1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Patrick Xie\AppData\Local\Temporary Projects\WaterHeatDraft1\obj\x86\Debug\WaterHeatDraft1.exe
+C:\Users\Patrick Xie\AppData\Local\Temporary Projects\WaterHeatDraft1\obj\x86\Debug\WaterHeatDraft1.pdb
+C:\Users\Patrick Xie\documents\visual studio 2010\Projects\WaterHeatDraft1\WaterHeatDraft1\obj\x86\Debug\WaterHeatDraft1.exe
+C:\Users\Patrick Xie\documents\visual studio 2010\Projects\WaterHeatDraft1\WaterHeatDraft1\obj\x86\Debug\WaterHeatDraft1.pdb
+C:\Users\Patrick Xie\documents\visual studio 2010\Projects\WaterHeatDraft1\WaterHeatDraft1\bin\Debug\WaterHeatDraft1.exe
+C:\Users\Patrick Xie\documents\visual studio 2010\Projects\WaterHeatDraft1\WaterHeatDraft1\bin\Debug\WaterHeatDraft1.pdb
+C:\Users\Patrick Xie\documents\visual studio 2010\Projects\WaterHeatDraft1\WaterHeatDraft1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Patrick Xie\documents\visual studio 2010\Projects\WaterHeatDraft1\WaterHeatDraft1\obj\x86\Debug\WaterHeatDraft1.Form1.resources
+C:\Users\Patrick Xie\documents\visual studio 2010\Projects\WaterHeatDraft1\WaterHeatDraft1\obj\x86\Debug\WaterHeatDraft1.Properties.Resources.resources
+C:\Users\Patrick Xie\documents\visual studio 2010\Projects\WaterHeatDraft1\WaterHeatDraft1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Patrick Xie\documents\visual studio 2010\Projects\WaterHeatDraft1\WaterHeatDraft1\obj\x86\Debug\GenerateResource.write.1.tlog

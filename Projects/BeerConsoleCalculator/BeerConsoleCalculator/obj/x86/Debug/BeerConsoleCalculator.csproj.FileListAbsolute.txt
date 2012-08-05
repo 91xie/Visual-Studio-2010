@@ -1,0 +1,10 @@
+C:\Users\Patrick Xie\AppData\Local\Temporary Projects\BeerConsoleCalculator\bin\Debug\BeerConsoleCalculator.exe
+C:\Users\Patrick Xie\AppData\Local\Temporary Projects\BeerConsoleCalculator\bin\Debug\BeerConsoleCalculator.pdb
+C:\Users\Patrick Xie\AppData\Local\Temporary Projects\BeerConsoleCalculator\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Patrick Xie\AppData\Local\Temporary Projects\BeerConsoleCalculator\obj\x86\Debug\BeerConsoleCalculator.exe
+C:\Users\Patrick Xie\AppData\Local\Temporary Projects\BeerConsoleCalculator\obj\x86\Debug\BeerConsoleCalculator.pdb
+C:\Users\Patrick Xie\documents\visual studio 2010\Projects\BeerConsoleCalculator\BeerConsoleCalculator\obj\x86\Debug\BeerConsoleCalculator.exe
+C:\Users\Patrick Xie\documents\visual studio 2010\Projects\BeerConsoleCalculator\BeerConsoleCalculator\obj\x86\Debug\BeerConsoleCalculator.pdb
+C:\Users\Patrick Xie\Documents\Visual Studio 2010\Projects\BeerConsoleCalculator\BeerConsoleCalculator\bin\Debug\BeerConsoleCalculator.exe
+C:\Users\Patrick Xie\Documents\Visual Studio 2010\Projects\BeerConsoleCalculator\BeerConsoleCalculator\bin\Debug\BeerConsoleCalculator.pdb
+C:\Users\Patrick Xie\Documents\Visual Studio 2010\Projects\BeerConsoleCalculator\BeerConsoleCalculator\obj\x86\Debug\ResolveAssemblyReference.cache

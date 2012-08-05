@@ -1,0 +1,7 @@
+C:\Users\Patrick Xie\AppData\Local\Temporary Projects\ReuseMethodsTest\bin\Debug\ReuseMethodsTest.exe
+C:\Users\Patrick Xie\AppData\Local\Temporary Projects\ReuseMethodsTest\bin\Debug\ReuseMethodsTest.pdb
+C:\Users\Patrick Xie\AppData\Local\Temporary Projects\ReuseMethodsTest\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Patrick Xie\AppData\Local\Temporary Projects\ReuseMethodsTest\obj\x86\Debug\ReuseMethodsTest.exe
+C:\Users\Patrick Xie\AppData\Local\Temporary Projects\ReuseMethodsTest\obj\x86\Debug\ReuseMethodsTest.pdb
+C:\Users\Patrick Xie\documents\visual studio 2010\Projects\ReuseMethodsTest\ReuseMethodsTest\obj\x86\Debug\ReuseMethodsTest.exe
+C:\Users\Patrick Xie\documents\visual studio 2010\Projects\ReuseMethodsTest\ReuseMethodsTest\obj\x86\Debug\ReuseMethodsTest.pdb

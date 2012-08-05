@@ -1,0 +1,10 @@
+C:\Users\Patrick Xie\AppData\Local\Temporary Projects\lessthanthree\bin\Debug\lessthanthree.exe
+C:\Users\Patrick Xie\AppData\Local\Temporary Projects\lessthanthree\bin\Debug\lessthanthree.pdb
+C:\Users\Patrick Xie\AppData\Local\Temporary Projects\lessthanthree\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Patrick Xie\AppData\Local\Temporary Projects\lessthanthree\obj\x86\Debug\lessthanthree.exe
+C:\Users\Patrick Xie\AppData\Local\Temporary Projects\lessthanthree\obj\x86\Debug\lessthanthree.pdb
+C:\Users\Patrick Xie\documents\visual studio 2010\Projects\lessthanthree\lessthanthree\obj\x86\Debug\lessthanthree.exe
+C:\Users\Patrick Xie\documents\visual studio 2010\Projects\lessthanthree\lessthanthree\obj\x86\Debug\lessthanthree.pdb
+C:\Users\Patrick Xie\Documents\Visual Studio 2010\Projects\lessthanthree\lessthanthree\bin\Debug\lessthanthree.exe
+C:\Users\Patrick Xie\Documents\Visual Studio 2010\Projects\lessthanthree\lessthanthree\bin\Debug\lessthanthree.pdb
+C:\Users\Patrick Xie\Documents\Visual Studio 2010\Projects\lessthanthree\lessthanthree\obj\x86\Debug\ResolveAssemblyReference.cache

@@ -1,0 +1,7 @@
+C:\Users\Patrick Xie\AppData\Local\Temporary Projects\Assignment1debug1\bin\Debug\Assignment1debug1.exe
+C:\Users\Patrick Xie\AppData\Local\Temporary Projects\Assignment1debug1\bin\Debug\Assignment1debug1.pdb
+C:\Users\Patrick Xie\AppData\Local\Temporary Projects\Assignment1debug1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Patrick Xie\AppData\Local\Temporary Projects\Assignment1debug1\obj\x86\Debug\Assignment1debug1.exe
+C:\Users\Patrick Xie\AppData\Local\Temporary Projects\Assignment1debug1\obj\x86\Debug\Assignment1debug1.pdb
+C:\Users\Patrick Xie\documents\visual studio 2010\Projects\Assignment1debug1\Assignment1debug1\obj\x86\Debug\Assignment1debug1.exe
+C:\Users\Patrick Xie\documents\visual studio 2010\Projects\Assignment1debug1\Assignment1debug1\obj\x86\Debug\Assignment1debug1.pdb

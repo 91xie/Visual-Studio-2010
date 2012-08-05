@@ -1,0 +1,5 @@
+C:\Users\Patrick Xie\Documents\Visual Studio 2010\Projects\LectureProgrammeVector3D\LectureProgrammeVector3D\bin\Debug\LectureProgrammeVector3D.exe
+C:\Users\Patrick Xie\Documents\Visual Studio 2010\Projects\LectureProgrammeVector3D\LectureProgrammeVector3D\bin\Debug\LectureProgrammeVector3D.pdb
+C:\Users\Patrick Xie\Documents\Visual Studio 2010\Projects\LectureProgrammeVector3D\LectureProgrammeVector3D\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Patrick Xie\Documents\Visual Studio 2010\Projects\LectureProgrammeVector3D\LectureProgrammeVector3D\obj\x86\Debug\LectureProgrammeVector3D.exe
+C:\Users\Patrick Xie\Documents\Visual Studio 2010\Projects\LectureProgrammeVector3D\LectureProgrammeVector3D\obj\x86\Debug\LectureProgrammeVector3D.pdb

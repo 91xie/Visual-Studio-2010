@@ -1,0 +1,10 @@
+C:\Users\Patrick Xie\AppData\Local\Temporary Projects\Inheritance1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Patrick Xie\AppData\Local\Temporary Projects\Inheritance1\bin\Debug\Inheritance1.exe
+C:\Users\Patrick Xie\AppData\Local\Temporary Projects\Inheritance1\bin\Debug\Inheritance1.pdb
+C:\Users\Patrick Xie\AppData\Local\Temporary Projects\Inheritance1\obj\x86\Debug\Inheritance1.exe
+C:\Users\Patrick Xie\AppData\Local\Temporary Projects\Inheritance1\obj\x86\Debug\Inheritance1.pdb
+C:\Users\Patrick Xie\Documents\Visual Studio 2010\Projects\Inheritance1\Inheritance1\obj\x86\Debug\Inheritance1.exe
+C:\Users\Patrick Xie\Documents\Visual Studio 2010\Projects\Inheritance1\Inheritance1\obj\x86\Debug\Inheritance1.pdb
+C:\Users\Patrick Xie\Documents\Visual Studio 2010\Projects\Inheritance1\Inheritance1\bin\Debug\Inheritance1.exe
+C:\Users\Patrick Xie\Documents\Visual Studio 2010\Projects\Inheritance1\Inheritance1\bin\Debug\Inheritance1.pdb
+C:\Users\Patrick Xie\Documents\Visual Studio 2010\Projects\Inheritance1\Inheritance1\obj\x86\Debug\ResolveAssemblyReference.cache

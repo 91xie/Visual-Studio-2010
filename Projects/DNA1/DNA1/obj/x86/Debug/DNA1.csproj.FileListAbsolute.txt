@@ -1,0 +1,10 @@
+C:\Users\Patrick Xie\AppData\Local\Temporary Projects\DNA1\bin\Debug\DNA1.exe
+C:\Users\Patrick Xie\AppData\Local\Temporary Projects\DNA1\bin\Debug\DNA1.pdb
+C:\Users\Patrick Xie\AppData\Local\Temporary Projects\DNA1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Patrick Xie\AppData\Local\Temporary Projects\DNA1\obj\x86\Debug\DNA1.exe
+C:\Users\Patrick Xie\AppData\Local\Temporary Projects\DNA1\obj\x86\Debug\DNA1.pdb
+C:\Users\Patrick Xie\Documents\Visual Studio 2010\Projects\DNA1\DNA1\obj\x86\Debug\DNA1.exe
+C:\Users\Patrick Xie\Documents\Visual Studio 2010\Projects\DNA1\DNA1\obj\x86\Debug\DNA1.pdb
+C:\Users\Patrick Xie\Documents\Visual Studio 2010\Projects\DNA1\DNA1\bin\Debug\DNA1.exe
+C:\Users\Patrick Xie\Documents\Visual Studio 2010\Projects\DNA1\DNA1\bin\Debug\DNA1.pdb
+C:\Users\Patrick Xie\Documents\Visual Studio 2010\Projects\DNA1\DNA1\obj\x86\Debug\ResolveAssemblyReference.cache

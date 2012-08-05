@@ -1,0 +1,10 @@
+C:\Users\Patrick Xie\AppData\Local\Temporary Projects\Assignment1X\bin\Debug\Assignment1X.exe
+C:\Users\Patrick Xie\AppData\Local\Temporary Projects\Assignment1X\bin\Debug\Assignment1X.pdb
+C:\Users\Patrick Xie\AppData\Local\Temporary Projects\Assignment1X\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Patrick Xie\AppData\Local\Temporary Projects\Assignment1X\obj\x86\Debug\Assignment1X.exe
+C:\Users\Patrick Xie\AppData\Local\Temporary Projects\Assignment1X\obj\x86\Debug\Assignment1X.pdb
+C:\Users\Patrick Xie\documents\visual studio 2010\Projects\Assignment1X\Assignment1X\obj\x86\Debug\Assignment1X.exe
+C:\Users\Patrick Xie\documents\visual studio 2010\Projects\Assignment1X\Assignment1X\obj\x86\Debug\Assignment1X.pdb
+C:\Users\Patrick Xie\Documents\Visual Studio 2010\Projects\Assignment1X\Assignment1X\bin\Debug\Assignment1X.exe
+C:\Users\Patrick Xie\Documents\Visual Studio 2010\Projects\Assignment1X\Assignment1X\bin\Debug\Assignment1X.pdb
+C:\Users\Patrick Xie\Documents\Visual Studio 2010\Projects\Assignment1X\Assignment1X\obj\x86\Debug\ResolveAssemblyReference.cache

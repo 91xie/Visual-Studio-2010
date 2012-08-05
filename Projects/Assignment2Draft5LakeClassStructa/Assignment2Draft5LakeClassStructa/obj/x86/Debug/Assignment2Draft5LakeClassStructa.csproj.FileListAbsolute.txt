@@ -1,0 +1,5 @@
+C:\Users\Patrick Xie\Documents\Visual Studio 2010\Projects\Assignment2Draft5LakeClassStructa\Assignment2Draft5LakeClassStructa\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Patrick Xie\Documents\Visual Studio 2010\Projects\Assignment2Draft5LakeClassStructa\Assignment2Draft5LakeClassStructa\bin\Debug\Assignment2Draft5LakeClassStructa.exe
+C:\Users\Patrick Xie\Documents\Visual Studio 2010\Projects\Assignment2Draft5LakeClassStructa\Assignment2Draft5LakeClassStructa\bin\Debug\Assignment2Draft5LakeClassStructa.pdb
+C:\Users\Patrick Xie\Documents\Visual Studio 2010\Projects\Assignment2Draft5LakeClassStructa\Assignment2Draft5LakeClassStructa\obj\x86\Debug\Assignment2Draft5LakeClassStructa.exe
+C:\Users\Patrick Xie\Documents\Visual Studio 2010\Projects\Assignment2Draft5LakeClassStructa\Assignment2Draft5LakeClassStructa\obj\x86\Debug\Assignment2Draft5LakeClassStructa.pdb

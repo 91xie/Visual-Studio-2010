@@ -1,0 +1,5 @@
+C:\Users\Patrick Xie\AppData\Local\Temporary Projects\Ass2b_110352329\bin\Debug\Ass2b_110352329.exe
+C:\Users\Patrick Xie\AppData\Local\Temporary Projects\Ass2b_110352329\bin\Debug\Ass2b_110352329.pdb
+C:\Users\Patrick Xie\AppData\Local\Temporary Projects\Ass2b_110352329\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Patrick Xie\AppData\Local\Temporary Projects\Ass2b_110352329\obj\x86\Debug\Ass2b_110352329.exe
+C:\Users\Patrick Xie\AppData\Local\Temporary Projects\Ass2b_110352329\obj\x86\Debug\Ass2b_110352329.pdb

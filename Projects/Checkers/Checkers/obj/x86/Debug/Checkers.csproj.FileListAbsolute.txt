@@ -1,0 +1,7 @@
+C:\Users\Patrick Xie\AppData\Local\Temporary Projects\Checkers\bin\Debug\Checkers.exe
+C:\Users\Patrick Xie\AppData\Local\Temporary Projects\Checkers\bin\Debug\Checkers.pdb
+C:\Users\Patrick Xie\AppData\Local\Temporary Projects\Checkers\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Patrick Xie\AppData\Local\Temporary Projects\Checkers\obj\x86\Debug\Checkers.exe
+C:\Users\Patrick Xie\AppData\Local\Temporary Projects\Checkers\obj\x86\Debug\Checkers.pdb
+C:\Users\Patrick Xie\Documents\Visual Studio 2010\Projects\Checkers\Checkers\obj\x86\Debug\Checkers.exe
+C:\Users\Patrick Xie\Documents\Visual Studio 2010\Projects\Checkers\Checkers\obj\x86\Debug\Checkers.pdb

@@ -1,0 +1,7 @@
+C:\Users\Patrick Xie\AppData\Local\Temporary Projects\CanKarolinaUseMyComputer\bin\Debug\CanKarolinaUseMyComputer.exe
+C:\Users\Patrick Xie\AppData\Local\Temporary Projects\CanKarolinaUseMyComputer\bin\Debug\CanKarolinaUseMyComputer.pdb
+C:\Users\Patrick Xie\AppData\Local\Temporary Projects\CanKarolinaUseMyComputer\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Patrick Xie\AppData\Local\Temporary Projects\CanKarolinaUseMyComputer\obj\x86\Debug\CanKarolinaUseMyComputer.exe
+C:\Users\Patrick Xie\AppData\Local\Temporary Projects\CanKarolinaUseMyComputer\obj\x86\Debug\CanKarolinaUseMyComputer.pdb
+C:\Users\Patrick Xie\Documents\Visual Studio 2010\Projects\CanKarolinaUseMyComputer\CanKarolinaUseMyComputer\obj\x86\Debug\CanKarolinaUseMyComputer.exe
+C:\Users\Patrick Xie\Documents\Visual Studio 2010\Projects\CanKarolinaUseMyComputer\CanKarolinaUseMyComputer\obj\x86\Debug\CanKarolinaUseMyComputer.pdb

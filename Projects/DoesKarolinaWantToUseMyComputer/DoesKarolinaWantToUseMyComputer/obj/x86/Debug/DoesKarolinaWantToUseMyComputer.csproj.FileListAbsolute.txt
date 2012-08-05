@@ -1,0 +1,10 @@
+C:\Users\Patrick Xie\AppData\Local\Temporary Projects\DoesKarolinaWantToUseMyComputer\bin\Debug\DoesKarolinaWantToUseMyComputer.exe
+C:\Users\Patrick Xie\AppData\Local\Temporary Projects\DoesKarolinaWantToUseMyComputer\bin\Debug\DoesKarolinaWantToUseMyComputer.pdb
+C:\Users\Patrick Xie\AppData\Local\Temporary Projects\DoesKarolinaWantToUseMyComputer\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Patrick Xie\AppData\Local\Temporary Projects\DoesKarolinaWantToUseMyComputer\obj\x86\Debug\DoesKarolinaWantToUseMyComputer.exe
+C:\Users\Patrick Xie\AppData\Local\Temporary Projects\DoesKarolinaWantToUseMyComputer\obj\x86\Debug\DoesKarolinaWantToUseMyComputer.pdb
+C:\Users\Patrick Xie\Documents\Visual Studio 2010\Projects\DoesKarolinaWantToUseMyComputer\DoesKarolinaWantToUseMyComputer\obj\x86\Debug\DoesKarolinaWantToUseMyComputer.exe
+C:\Users\Patrick Xie\Documents\Visual Studio 2010\Projects\DoesKarolinaWantToUseMyComputer\DoesKarolinaWantToUseMyComputer\obj\x86\Debug\DoesKarolinaWantToUseMyComputer.pdb
+C:\Users\Patrick Xie\Documents\Visual Studio 2010\Projects\DoesKarolinaWantToUseMyComputer\DoesKarolinaWantToUseMyComputer\bin\Debug\DoesKarolinaWantToUseMyComputer.exe
+C:\Users\Patrick Xie\Documents\Visual Studio 2010\Projects\DoesKarolinaWantToUseMyComputer\DoesKarolinaWantToUseMyComputer\bin\Debug\DoesKarolinaWantToUseMyComputer.pdb
+C:\Users\Patrick Xie\Documents\Visual Studio 2010\Projects\DoesKarolinaWantToUseMyComputer\DoesKarolinaWantToUseMyComputer\obj\x86\Debug\ResolveAssemblyReference.cache

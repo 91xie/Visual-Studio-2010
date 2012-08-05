@@ -1,0 +1,5 @@
+C:\Users\Patrick Xie\Documents\Visual Studio 2010\Projects\20_05_11_Strings\20_05_11_Strings\bin\Debug\20_05_11_Strings.exe
+C:\Users\Patrick Xie\Documents\Visual Studio 2010\Projects\20_05_11_Strings\20_05_11_Strings\bin\Debug\20_05_11_Strings.pdb
+C:\Users\Patrick Xie\Documents\Visual Studio 2010\Projects\20_05_11_Strings\20_05_11_Strings\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Patrick Xie\Documents\Visual Studio 2010\Projects\20_05_11_Strings\20_05_11_Strings\obj\x86\Debug\20_05_11_Strings.exe
+C:\Users\Patrick Xie\Documents\Visual Studio 2010\Projects\20_05_11_Strings\20_05_11_Strings\obj\x86\Debug\20_05_11_Strings.pdb

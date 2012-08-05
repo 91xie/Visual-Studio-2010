@@ -1,0 +1,5 @@
+C:\Users\Patrick Xie\Documents\Visual Studio 2010\Projects\ConsoleDisp\ConsoleDisp\bin\Debug\ConsoleDisp.exe
+C:\Users\Patrick Xie\Documents\Visual Studio 2010\Projects\ConsoleDisp\ConsoleDisp\bin\Debug\ConsoleDisp.pdb
+C:\Users\Patrick Xie\Documents\Visual Studio 2010\Projects\ConsoleDisp\ConsoleDisp\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Patrick Xie\Documents\Visual Studio 2010\Projects\ConsoleDisp\ConsoleDisp\obj\x86\Debug\ConsoleDisp.exe
+C:\Users\Patrick Xie\Documents\Visual Studio 2010\Projects\ConsoleDisp\ConsoleDisp\obj\x86\Debug\ConsoleDisp.pdb

@@ -1,0 +1,10 @@
+C:\Users\Patrick Xie\AppData\Local\Temporary Projects\NumericOrderTest1\bin\Debug\NumericOrderTest1.exe
+C:\Users\Patrick Xie\AppData\Local\Temporary Projects\NumericOrderTest1\bin\Debug\NumericOrderTest1.pdb
+C:\Users\Patrick Xie\AppData\Local\Temporary Projects\NumericOrderTest1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Patrick Xie\AppData\Local\Temporary Projects\NumericOrderTest1\obj\x86\Debug\NumericOrderTest1.exe
+C:\Users\Patrick Xie\AppData\Local\Temporary Projects\NumericOrderTest1\obj\x86\Debug\NumericOrderTest1.pdb
+C:\Users\Patrick Xie\documents\visual studio 2010\Projects\NumericOrderTest1\NumericOrderTest1\obj\x86\Debug\NumericOrderTest1.exe
+C:\Users\Patrick Xie\documents\visual studio 2010\Projects\NumericOrderTest1\NumericOrderTest1\obj\x86\Debug\NumericOrderTest1.pdb
+C:\Users\Patrick Xie\documents\visual studio 2010\Projects\NumericOrderTest1\NumericOrderTest1\bin\Debug\NumericOrderTest1.exe
+C:\Users\Patrick Xie\documents\visual studio 2010\Projects\NumericOrderTest1\NumericOrderTest1\bin\Debug\NumericOrderTest1.pdb
+C:\Users\Patrick Xie\documents\visual studio 2010\Projects\NumericOrderTest1\NumericOrderTest1\obj\x86\Debug\ResolveAssemblyReference.cache

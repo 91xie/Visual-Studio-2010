@@ -1,0 +1,5 @@
+C:\Users\Patrick Xie\documents\visual studio 2010\Projects\Ass2a_110352329\Ass2a_110352329\bin\Debug\Ass2a_110352329.exe
+C:\Users\Patrick Xie\documents\visual studio 2010\Projects\Ass2a_110352329\Ass2a_110352329\bin\Debug\Ass2a_110352329.pdb
+C:\Users\Patrick Xie\documents\visual studio 2010\Projects\Ass2a_110352329\Ass2a_110352329\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Patrick Xie\documents\visual studio 2010\Projects\Ass2a_110352329\Ass2a_110352329\obj\x86\Debug\Ass2a_110352329.exe
+C:\Users\Patrick Xie\documents\visual studio 2010\Projects\Ass2a_110352329\Ass2a_110352329\obj\x86\Debug\Ass2a_110352329.pdb

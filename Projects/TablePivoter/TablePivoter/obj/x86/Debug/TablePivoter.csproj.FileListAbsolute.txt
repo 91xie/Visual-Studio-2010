@@ -1,0 +1,5 @@
+C:\Users\Patrick Xie\Documents\Visual Studio 2010\Projects\TablePivoter\TablePivoter\bin\Debug\TablePivoter.exe
+C:\Users\Patrick Xie\Documents\Visual Studio 2010\Projects\TablePivoter\TablePivoter\bin\Debug\TablePivoter.pdb
+C:\Users\Patrick Xie\Documents\Visual Studio 2010\Projects\TablePivoter\TablePivoter\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Patrick Xie\Documents\Visual Studio 2010\Projects\TablePivoter\TablePivoter\obj\x86\Debug\TablePivoter.exe
+C:\Users\Patrick Xie\Documents\Visual Studio 2010\Projects\TablePivoter\TablePivoter\obj\x86\Debug\TablePivoter.pdb

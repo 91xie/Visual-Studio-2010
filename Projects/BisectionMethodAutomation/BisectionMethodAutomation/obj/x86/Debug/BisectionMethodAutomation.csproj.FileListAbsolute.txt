@@ -1,0 +1,10 @@
+C:\Users\Patrick Xie\AppData\Local\Temporary Projects\BisectionMethodAutomation\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Patrick Xie\AppData\Local\Temporary Projects\BisectionMethodAutomation\bin\Debug\BisectionMethodAutomation.exe
+C:\Users\Patrick Xie\AppData\Local\Temporary Projects\BisectionMethodAutomation\bin\Debug\BisectionMethodAutomation.pdb
+C:\Users\Patrick Xie\AppData\Local\Temporary Projects\BisectionMethodAutomation\obj\x86\Debug\BisectionMethodAutomation.exe
+C:\Users\Patrick Xie\AppData\Local\Temporary Projects\BisectionMethodAutomation\obj\x86\Debug\BisectionMethodAutomation.pdb
+C:\Users\Patrick Xie\documents\visual studio 2010\Projects\BisectionMethodAutomation\BisectionMethodAutomation\obj\x86\Debug\BisectionMethodAutomation.exe
+C:\Users\Patrick Xie\documents\visual studio 2010\Projects\BisectionMethodAutomation\BisectionMethodAutomation\obj\x86\Debug\BisectionMethodAutomation.pdb
+C:\Users\Patrick Xie\documents\visual studio 2010\Projects\BisectionMethodAutomation\BisectionMethodAutomation\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Patrick Xie\documents\visual studio 2010\Projects\BisectionMethodAutomation\BisectionMethodAutomation\bin\Debug\BisectionMethodAutomation.exe
+C:\Users\Patrick Xie\documents\visual studio 2010\Projects\BisectionMethodAutomation\BisectionMethodAutomation\bin\Debug\BisectionMethodAutomation.pdb

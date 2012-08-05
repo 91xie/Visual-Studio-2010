@@ -1,0 +1,5 @@
+C:\Users\Patrick Xie\AppData\Local\Temporary Projects\03_05_11_ComplexNo\bin\Debug\03_05_11_ComplexNo.exe
+C:\Users\Patrick Xie\AppData\Local\Temporary Projects\03_05_11_ComplexNo\bin\Debug\03_05_11_ComplexNo.pdb
+C:\Users\Patrick Xie\AppData\Local\Temporary Projects\03_05_11_ComplexNo\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Patrick Xie\AppData\Local\Temporary Projects\03_05_11_ComplexNo\obj\x86\Debug\03_05_11_ComplexNo.exe
+C:\Users\Patrick Xie\AppData\Local\Temporary Projects\03_05_11_ComplexNo\obj\x86\Debug\03_05_11_ComplexNo.pdb

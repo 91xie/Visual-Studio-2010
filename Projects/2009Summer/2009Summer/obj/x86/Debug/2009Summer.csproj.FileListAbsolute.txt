@@ -1,0 +1,7 @@
+C:\Users\Patrick Xie\AppData\Local\Temporary Projects\2009Summer\bin\Debug\2009Summer.exe
+C:\Users\Patrick Xie\AppData\Local\Temporary Projects\2009Summer\bin\Debug\2009Summer.pdb
+C:\Users\Patrick Xie\AppData\Local\Temporary Projects\2009Summer\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Patrick Xie\AppData\Local\Temporary Projects\2009Summer\obj\x86\Debug\2009Summer.exe
+C:\Users\Patrick Xie\AppData\Local\Temporary Projects\2009Summer\obj\x86\Debug\2009Summer.pdb
+C:\Users\Patrick Xie\documents\visual studio 2010\Projects\2009Summer\2009Summer\obj\x86\Debug\2009Summer.exe
+C:\Users\Patrick Xie\documents\visual studio 2010\Projects\2009Summer\2009Summer\obj\x86\Debug\2009Summer.pdb

@@ -1,0 +1,16 @@
+C:\Users\Patrick Xie\AppData\Local\Temporary Projects\CE1005_MyFirstWinApplication\bin\Debug\CE1005_MyFirstWinApplication.exe
+C:\Users\Patrick Xie\AppData\Local\Temporary Projects\CE1005_MyFirstWinApplication\bin\Debug\CE1005_MyFirstWinApplication.pdb
+C:\Users\Patrick Xie\AppData\Local\Temporary Projects\CE1005_MyFirstWinApplication\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Patrick Xie\AppData\Local\Temporary Projects\CE1005_MyFirstWinApplication\obj\x86\Debug\CE1005_MyFirstWinApplication.Form1.resources
+C:\Users\Patrick Xie\AppData\Local\Temporary Projects\CE1005_MyFirstWinApplication\obj\x86\Debug\CE1005_MyFirstWinApplication.Properties.Resources.resources
+C:\Users\Patrick Xie\AppData\Local\Temporary Projects\CE1005_MyFirstWinApplication\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Patrick Xie\AppData\Local\Temporary Projects\CE1005_MyFirstWinApplication\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Patrick Xie\AppData\Local\Temporary Projects\CE1005_MyFirstWinApplication\obj\x86\Debug\CE1005_MyFirstWinApplication.exe
+C:\Users\Patrick Xie\AppData\Local\Temporary Projects\CE1005_MyFirstWinApplication\obj\x86\Debug\CE1005_MyFirstWinApplication.pdb
+C:\Users\Patrick Xie\documents\visual studio 2010\Projects\CE1005_MyFirstWinApplication\CE1005_MyFirstWinApplication\obj\x86\Debug\CE1005_MyFirstWinApplication.exe
+C:\Users\Patrick Xie\documents\visual studio 2010\Projects\CE1005_MyFirstWinApplication\CE1005_MyFirstWinApplication\obj\x86\Debug\CE1005_MyFirstWinApplication.pdb
+C:\Users\Patrick Xie\documents\visual studio 2010\Projects\CE1005_MyFirstWinApplication\CE1005_MyFirstWinApplication\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Patrick Xie\documents\visual studio 2010\Projects\CE1005_MyFirstWinApplication\CE1005_MyFirstWinApplication\obj\x86\Debug\CE1005_MyFirstWinApplication.Form1.resources
+C:\Users\Patrick Xie\documents\visual studio 2010\Projects\CE1005_MyFirstWinApplication\CE1005_MyFirstWinApplication\obj\x86\Debug\CE1005_MyFirstWinApplication.Properties.Resources.resources
+C:\Users\Patrick Xie\documents\visual studio 2010\Projects\CE1005_MyFirstWinApplication\CE1005_MyFirstWinApplication\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Patrick Xie\documents\visual studio 2010\Projects\CE1005_MyFirstWinApplication\CE1005_MyFirstWinApplication\obj\x86\Debug\GenerateResource.write.1.tlog

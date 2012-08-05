@@ -1,0 +1,7 @@
+C:\Users\Patrick Xie\AppData\Local\Temporary Projects\ComplexNosTest1\bin\Debug\ComplexNosTest1.exe
+C:\Users\Patrick Xie\AppData\Local\Temporary Projects\ComplexNosTest1\bin\Debug\ComplexNosTest1.pdb
+C:\Users\Patrick Xie\AppData\Local\Temporary Projects\ComplexNosTest1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Patrick Xie\AppData\Local\Temporary Projects\ComplexNosTest1\obj\x86\Debug\ComplexNosTest1.exe
+C:\Users\Patrick Xie\AppData\Local\Temporary Projects\ComplexNosTest1\obj\x86\Debug\ComplexNosTest1.pdb
+C:\Users\Patrick Xie\documents\visual studio 2010\Projects\ComplexNosTest1\ComplexNosTest1\obj\x86\Debug\ComplexNosTest1.exe
+C:\Users\Patrick Xie\documents\visual studio 2010\Projects\ComplexNosTest1\ComplexNosTest1\obj\x86\Debug\ComplexNosTest1.pdb
