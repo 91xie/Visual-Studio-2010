@@ -1,0 +1,50 @@
+<html>
+
+<head>
+</head>
+
+<body>
+
+<script type="text/vbscript">
+
+Option Explicit
+dim selector
+selector = "false"
+
+function AddPrint(Master, Text)
+	Master = Master + Text
+	AddPrint = Master
+end function
+
+sub print(x)
+	if selector = "true" then
+		document.write(x)
+	else
+		document.write ""
+	end if
+end sub
+
+dim mastertext, psel
+mastertext = ""
+psel = "false"
+
+dim text
+text = "added text" 
+
+mastertext = AddPrint(mastertext, text)
+document.write(mastertext)
+
+
+
+
+
+
+
+
+
+</script>
+
+
+</body>
+
+</html>
